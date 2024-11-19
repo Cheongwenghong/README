@@ -32,10 +32,13 @@ const wengHong = {
 
 <div align="center">
   <a href="https://github.com/TechiesApp/pet2u-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechiesApp&repo=pet2u-app&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/🐾_Pet2u_App-Pet_Care_Platform-brightgreen?style=for-the-badge" />
   </a>
   <a href="https://github.com/TechiesApp/pet2u-driver-v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechiesApp&repo=pet2u-driver-v2&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/🚗_Pet2u_Driver-Driver_App-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/TechiesApp/asp-flexi-benefits">
+    <img src="https://img.shields.io/badge/💼_ASP_Flexi-Benefits_System-purple?style=for-the-badge" />
   </a>
 </div>
 
