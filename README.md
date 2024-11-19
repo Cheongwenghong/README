@@ -81,20 +81,8 @@ JSON          ███░░░░░░░░░░░░░░░░  11.93%
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Cheongwenghong/Cheongwenghong/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Cheongwenghong/Cheongwenghong/output/github-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/Cheongwenghong/Cheongwenghong/output/github-snake.svg"
-    />
-  </picture>
+  
+![Snake animation](https://github.com/Cheongwenghong/Cheongwenghong/blob/output/github-contribution-grid-snake.svg)
   
   <br/>
   <br/>
