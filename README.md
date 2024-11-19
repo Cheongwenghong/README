@@ -13,10 +13,9 @@
 ```javascript
 const skills = {
     frontend: ['React Native', 'React.js', 'TypeScript', 'JavaScript'],
-    backend: ['Node.js', 'Express'],
+    backend: ['Node.js'],
     mobile: ['React Native', 'Expo'],
-    database: ['PostgreSQL', 'MongoDB'],
-    tools: ['Git', 'Docker', 'AWS']
+    tools: ['Git', 'Firebase']
 }
 ```
 
