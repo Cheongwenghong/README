@@ -8,34 +8,16 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
-
+      
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: Cheongwenghong
-          # Color and animation options
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#3DDC84&color_dots=#000000,#1A936F,#114B5F,#88D498,#C6DABF
-          # Snake color variations
-          svg_out_path: dist/github-snake.svg
-          animation_out_path: dist/github-snake.gif
-          # Configuration for snake behavior
-          github_dark_user_name: Cheongwenghong
-          github_light_user_name: Cheongwenghong
-          # Additional options for more interesting animation
-          snake_color: '#3DDC84'
-          date_format: YYYY-MM-DD
-          timezone: Asia/Kuala_Lumpur
-          graph_height: 200
-          min_distance: 6
-          max_distance: 20
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
