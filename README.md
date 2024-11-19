@@ -78,6 +78,27 @@ JSON          ███░░░░░░░░░░░░░░░░  11.93%
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Cheongwenghong/Cheongwenghong/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Cheongwenghong/Cheongwenghong/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Cheongwenghong/Cheongwenghong/output/github-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/Cheongwenghong/Cheongwenghong/output/github-snake.svg"
+    />
+  </picture>
+  
+  <br/>
+  <br/>
+  
+  <!-- Optional: Add a fun message -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Watch+the+snake+eat+my+contributions!;🐍+Nom+nom+nom+nom+nom+nom+nom;Building+stuff+one+commit+at+a+time" alt="Snake eating contributions"/>
+</div>
